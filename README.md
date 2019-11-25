@@ -12,4 +12,8 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+THis is a simple web project deployment...
+
 ## How To Contribute
+
+Contact # is 123-234-1235

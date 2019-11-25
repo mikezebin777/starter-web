@@ -17,3 +17,7 @@ THis is a simple web project deployment...
 ## How To Contribute
 
 Contact # is 123-234-1235
+
+## Copyright
+
+2019 copyright

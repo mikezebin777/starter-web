@@ -16,7 +16,7 @@ THis is a simple web project deployment...
 
 ## How To Contribute
 
-Contact # is 123-234-1235
+Please fork this repo and then issue Pull Requests for review.
 
 ## Copyright
 
